@@ -1,0 +1,12 @@
+{
+	"BaseDir": "",
+	"CompilerVersion": "v3.5",
+	"CodeFiles": [],
+	"IsDevelopment": false,
+	"IsEnabled": true,
+	"Name": "Greenscreen Objects",
+	"Project": "Custom Scenery.csproj",
+	"Tag": null,
+	"ReferencedAssemblies": [],
+	"Repository": "DasMatze/Parkitect-Greenscreen-Objects"
+}

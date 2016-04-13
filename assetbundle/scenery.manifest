@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 3098860479
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c952f760a6f863e2e760f80fd343f1fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f47e5080155a0c3ac2e9ffbbc14e366d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/BlueCeiling.fbx
+- Assets/BlackFloor.fbx
+- Assets/GreenCeiling.fbx
+- Assets/IndigoFloor.fbx
+- Assets/IndigoWall.fbx
+- Assets/GreenWall.fbx
+- Assets/GrayCeiling.fbx
+- Assets/BlackWall.fbx
+- Assets/GreenFloor.fbx
+- Assets/GrayFloor.fbx
+- Assets/GrayWall.fbx
+- Assets/BlueWall.fbx
+- Assets/IndigoCeiling.fbx
+- Assets/BlueFloor.fbx
+- Assets/WhiteFloor.fbx
+- Assets/WhiteWall.fbx
+- Assets/WhiteCeiling.fbx
+- Assets/BlackCeiling.fbx
+Dependencies: []
