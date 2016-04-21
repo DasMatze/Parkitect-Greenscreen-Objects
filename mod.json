@@ -6,7 +6,7 @@
 	"IsEnabled": true,
 	"Name": "Greenscreen Objects",
 	"Project": "Custom Scenery.csproj",
-	"Tag": null,
+	"Tag": "v1.0",
 	"ReferencedAssemblies": [],
 	"Repository": "DasMatze/Parkitect-Greenscreen-Objects"
 }
