@@ -1,5 +1,6 @@
 ﻿{
 	"DM_GSO Black Floor": {
+		"displayName": "Black Floor",
 		"category": "Utilities",
 		"model": "BlackFloor",
 		"type": "deco",
@@ -9,6 +10,7 @@
 		"snapCenter": true,
 	},
 	"DM_GSO Black Ceiling": {
+		"displayName": "Black Ceiling",
 		"category": "Utilities",
 		"model": "BlackCeiling",
 		"type": "deco",
@@ -18,6 +20,7 @@
 		"snapCenter": true,
 	},
 	"DM_GSO Black Wall": {
+		"displayName": "Black Wall",
 		"category": "Utilities",
 		"model": "BlackWall",
 		"type": "deco",
@@ -27,6 +30,7 @@
 		"snapCenter": true,
 	},
 	"DM_GSO Blue Floor": {
+		"displayName": "Blue Floor",
 		"category": "Utilities",
 		"model": "BlueFloor",
 		"type": "deco",
@@ -36,6 +40,7 @@
 		"snapCenter": true,
 	},
 	"DM_GSO Blue Ceiling": {
+		"displayName": "Blue Ceiling",
 		"category": "Utilities",
 		"model": "BlueCeiling",
 		"type": "deco",
@@ -45,6 +50,7 @@
 		"snapCenter": true,
 	},
 	"DM_GSO Blue Wall": {
+		"displayName": "Blue Wall",
 		"category": "Utilities",
 		"model": "BlueWall",
 		"type": "deco",
@@ -54,6 +60,7 @@
 		"snapCenter": true,
 	},
 	"DM_GSO Green Floor": {
+		"displayName": "Green Floor",
 		"category": "Utilities",
 		"model": "GreenFloor",
 		"type": "deco",
@@ -63,6 +70,7 @@
 		"snapCenter": true,
 	},
 	"DM_GSO Green Ceiling": {
+		"displayName": "Green Ceiling",
 		"category": "Utilities",
 		"model": "GreenCeiling",
 		"type": "deco",
@@ -72,6 +80,7 @@
 		"snapCenter": true,
 	},
 	"DM_GSO Green Wall": {
+		"displayName": "Green Wall",
 		"category": "Utilities",
 		"model": "GreenWall",
 		"type": "deco",
@@ -81,6 +90,7 @@
 		"snapCenter": true,
 	},
 	"DM_GSO Gray Floor": {
+		"displayName": "Gray Floor",
 		"category": "Utilities",
 		"model": "GrayFloor",
 		"type": "deco",
@@ -90,6 +100,7 @@
 		"snapCenter": true,
 	},
 	"DM_GSO Gray Ceiling": {
+		"displayName": "Gray Ceiling",
 		"category": "Utilities",
 		"model": "GrayCeiling",
 		"type": "deco",
@@ -99,6 +110,7 @@
 		"snapCenter": true,
 	},
 	"DM_GSO Gray Wall": {
+		"displayName": "Gray Wall",
 		"category": "Utilities",
 		"model": "GrayWall",
 		"type": "deco",
@@ -108,6 +120,7 @@
 		"snapCenter": true,
 	},
 	"DM_GSO Indigo Floor": {
+		"displayName": "Indigo Floor",
 		"category": "Utilities",
 		"model": "IndigoFloor",
 		"type": "deco",
@@ -117,6 +130,7 @@
 		"snapCenter": true,
 	},
 	"DM_GSO Indigo Ceiling": {
+		"displayName": "Indigo Ceiling",
 		"category": "Utilities",
 		"model": "IndigoCeiling",
 		"type": "deco",
@@ -126,6 +140,7 @@
 		"snapCenter": true,
 	},
 	"DM_GSO Indigo Wall": {
+		"displayName": "Indigo Wall",
 		"category": "Utilities",
 		"model": "IndigoWall",
 		"type": "deco",
@@ -135,6 +150,7 @@
 		"snapCenter": true,
 	},
 	"DM_GSO White Floor": {
+		"displayName": "White Floor",
 		"category": "Utilities",
 		"model": "WhiteFloor",
 		"type": "deco",
@@ -144,6 +160,7 @@
 		"snapCenter": true,
 	},
 	"DM_GSO White Ceiling": {
+		"displayName": "White Ceiling",
 		"category": "Utilities",
 		"model": "WhiteCeiling",
 		"type": "deco",
@@ -153,6 +170,7 @@
 		"snapCenter": true,
 	},
 	"DM_GSO White Wall": {
+		"displayName": "White Wall",
 		"category": "Utilities",
 		"model": "WhiteWall",
 		"type": "deco",
