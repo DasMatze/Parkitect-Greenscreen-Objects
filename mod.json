@@ -1,5 +1,6 @@
 {
     "BaseDir": "",
+    "IsDevelopment": false,
     "Name": "Greenscreen Objects",
     "Project": "Custom Scenery.csproj",
 	"AssetBundleDir": "assetbundle"
